@@ -1,5 +1,5 @@
 baseURL = "https://idx01.whistler.page"
-title = "VNovel"
+title = "idx01 Catalog"
 author = "wistlyr"
 languageCode = "en"
 DefaultContentLanguage = "en"
@@ -18,7 +18,7 @@ enableRobotsTXT = true
 
 [params]
 # The number of articles to be displayed on a single page.
-paginator_pages = "9"
+paginator_pages = "6"
 
 # Site logo.
 #logo = ""

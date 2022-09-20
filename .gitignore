@@ -3,4 +3,5 @@
 **/.DS_Store
 **/._.DS_Store
 ._*
+node_modules/
 .hugo_build.lock
