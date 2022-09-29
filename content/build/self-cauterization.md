@@ -1,5 +1,6 @@
 ---
 title: "Self Cauterization"
+author: "wtrclr"
 description: "A story involving an Octoling and Kamabo Co. Glory to Tartar, I guess?"
 categories: ["splatoon"]
 tags: ["freewrite"]

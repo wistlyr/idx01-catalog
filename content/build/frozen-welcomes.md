@@ -1,5 +1,6 @@
 ---
 title: "Frozen Welcomes"
+author: "wtrclr"
 description: "A story involving an unnamed OC and a Froslass. Abuse warning."
 categories: ["pokemon"]
 tags: ["freewrite"]

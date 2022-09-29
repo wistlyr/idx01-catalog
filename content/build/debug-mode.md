@@ -1,5 +1,6 @@
 ---
 title: "Debug Mode"
+author: "wtrclr"
 description: "A commissioned story about an Anon and the Slime Girls from OMORI."
 categories: ["OMORI"]
 tags: ["commission"]
