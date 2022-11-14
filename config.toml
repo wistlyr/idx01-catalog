@@ -24,14 +24,14 @@ paginator_pages = "6"
 #logo = ""
 
   [params.homepage_meta_tags]
-    meta_description = "Showcase site for Watercolor works."
+    meta_description = "Systemware® intranet server for Watercolor builds."
     meta_og_title = "idx01 Catalog"
     meta_og_type = "website"
     meta_og_url = "https://idx01.whistler.page"
-    meta_og_image = "https://idx01.whistler.page/img/thumbnail.png"
-    meta_og_description = "http://idx01.whistler.page/"
+    meta_og_image = "https://idx01.whistler.page/img/setup.png"
+    meta_og_description = "Systemware® intranet server for Watercolor builds."
     meta_twitter_card = "summary_large_image"
-    meta_twitter_site = "@wistlyr"
+    meta_twitter_site = "https://idx01.whistler.page"
     meta_twitter_creator = "@wistlyr"
 
 
